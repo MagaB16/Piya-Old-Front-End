@@ -1,4 +1,4 @@
-import './styles/ProductEditor'
+import './styles/ProductEditor.css'
 
 function ProductEditor(){
 
